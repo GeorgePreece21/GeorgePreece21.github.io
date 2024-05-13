@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="./styles.css">
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <!---Header--->
+  <h1>GP Wedding Designs</h1>
+
+  <nav class="navbar">
+    <ul>
+      <li><a href="#">Mission Statement</a></li>
+      <li><a href="#">What we do</a></li>
+      <li><a href="#">Meet the team</a></li>
+    </ul>
+  </nav>
+
+  <!---Mission statement--->
+
+  <main>
+      <div class="container">
+      <div class="item-1">
+      <div class="item-1-text">
+        <h2>Mission Statement</h2>
+        <p>Here at GP Wedding Designs we're committed to providing you a unique wedding website for your special day. It's part of our DNA and it's what we take pride in.</p>
+      </div>
+    </div>
+
+     <!---What we do--->
+
+    <div class="item-2">
+        <div class="item-2-text">
+        <h2>What we do</h2>
+        <p>For over five years we have desgined bespoke wedding websites for your special day. We tailor to your needs and make sure you're fully satisfied with the website before we publish. We have different packages which can suit all needs; please take a look here.'</p>
+      </div>
+      </div>
+    </div>
+
+    <!---Meet the team--->
+
+  <div class="wrapper">
+    <h2>Meet the team</h2>
+    <hr>
+    <div class="members">
+      <div class="team-mem">
+        <img src="headshot.jpg">
+        <h4>George Preece</h4>
+        <p>CEO and Founder</p>
+     </div>
+
+     <div class="team-mem">
+        <img src="headshot2.jpg">
+        <h4>Lottie Preece</h4>
+        <p>Head of Sales</p>
+     </div>
+
+     <div class="team-mem">
+        <img src="headshot3.jpg">
+        <h4>Lottie Preece</h4>
+        <p>Intern</p>
+     </div>
+    
+    
+
+      
